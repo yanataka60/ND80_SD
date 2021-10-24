@@ -1,6 +1,6 @@
 # ND8080又はND80Z3にSD-Cardとのロード、セーブ機能
 
-シリアル同期通信によりND8080又はND80Z3とSD_ACCESS(ARDUINO+SD-CARD)とのロード、セーブを提供するルーチンです。
+　シリアル同期通信によりND8080又はND80Z3とSD_ACCESS(ARDUINO+SD-CARD)とのロード、セーブを提供するルーチンです。
 
 
 ## 必要なもの
